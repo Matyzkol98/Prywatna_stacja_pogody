@@ -1,4 +1,4 @@
-# Stacja_pogody
+# Prywatna_stacja_pogody
 Mateusz Kołodziejski
 251089
 
