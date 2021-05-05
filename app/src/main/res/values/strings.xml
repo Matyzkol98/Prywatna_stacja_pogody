@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Prywatna Stacja Pogody</string>
+    <string name="cached">Cached</string>
+    <string name="ustawienia">Ustawienia</string>
+    <string name="nazwa_stacji">Nazwa stacji</string>
+    <string name="miejscowo">Miejscowość</string>
+    <string name="st_c">... st.C</string>
+    <string name="wilgotno_w">Wilgotność w %</string>
+    <string name="ci_nienie_atmosferyczne">Ciśnienie atmosferyczne</string>
+    <string name="si_a_pr_dko_i_kierunek_wiatru">Siła, prędkość i kierunek wiatru</string>
+    <string name="prognoza_data_i_godzina_od_wie_enia">Prognoza, data i godzina odświeżenia</string>
+    <string name="textview">TextView</string>
+    <string name="realtime_txt">realtime_txt</string>
+    <string name="trend">Trend</string>
+    <string name="punkt_rosy">Punkt rosy</string>
+    <string name="trend_ci_n">Trend ciśn.</string>
+    <string name="todo">TODO</string>
+    <string name="sila_wiartu">Siła wiartu</string>
+    <string name="si_a_wiatru">Siła wiatru</string>
+    <string name="pr_dko_wiatru">Prędkość wiatru</string>
+    <string name="kierunek_wiatru">Kierunek wiatru</string>
+    <string name="weather">TODO</string>
+    <string name="wilgoc">TODO</string>
+    <string name="pressure">TODO</string>
+    <string name="wschod_slonca">wschod slonca</string>
+    <string name="zachod_slonca">zachod slonca</string>
+    <string name="dl_doby">dl doby</string>
+    <string name="wschod">TODO</string>
+    <string name="zachod">TODO</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="ustawienia_header">Ustawienia aplikacji</string>
+    <string name="info_header">Informacje</string>
+
+    <!-- Ustawienia Preferences -->
+    <string name="ustawienia_title">Ustaw stronę URL, z której mają być pobierane dane, np:\nhttp://www.twoja_strona/index.htm</string>
+    <string name="czasy_title">Ustawienia czasu odświeżania danych</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_naglowek">Program Prywatna Stacja Pogody\n</string>
+    <string name="hello_blank_fragment">Wersja: 1.2\nProgramował: Mateusz Kołodziejski\n
+        Politechnika Wrocławska\nWydział WEMiF\n12.2019</string>
+    <string name="o_aplikacji">O aplikacji</string>
+
+</resources>
